@@ -6,4 +6,4 @@ if __name__ == "__main__":
     result = is_pollindrom(user_word)
     print(result)
     #
-    #Commit
+    # Commit
